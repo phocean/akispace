@@ -23,9 +23,17 @@ permalink: results.html
 
 \*海外滞在年数や英語圏にいたかどうかにもよります。
 
-英検は受身的な試験（選択/並び替え問題がメイン）で文法や語彙を知らなくても合格できてしまうという点がありましたが、２０１６年度より準１級がメール文から小論文に変わり、また２級にもライティング課題が取り入れられるようになり少し改善されたように感じます。
+英検は受身的な試験で文法や語彙を知らなくても合格できてしまうという欠点があります。語彙は４つの選択肢から選び、読解はストーリーが理解できなくても正解が導き出せます。実力の伴わない合格であっても次の級へとどんどん進んでいってしまう傾向があるのですが、そのようなパターンに陥ってしまうと本来の目的である英語を伸ばすというゴールが失われ、英検に合格することだけが唯一の目標となってしまいます。
 
-英検を持っていても書けない話せない・・・とならないために、<strong>レッスンではまず実力（文法語彙力←ここがなければ英語力は広がりません）をつけることを優先とし、その力を試すために受けるのが英検</strong>だと考えています。3級を持っているのであれば中学英語、2級であれば高校英語、しっかり使いこなし書いたり話したりできるでしょうか？英検合格だけの勉強にならないよう心がけています。
+以下はJapan Timesの記事の抜粋です。
+
+"Taking exams is not necessarily harmful to learners, but when test results are overemphasized,motivation becomes misdirected. Students can mistake the language for a paper-based, correct-answer activity, rather than a real world communicative tool".
+
+"Schools, teachers and parents should move away from the testing obsession".
+
+"It's really hard to see why the tests are all about grammar and reading comprehesion.The listening part is far easier, and the speaking test is little more than a afterthought".
+
+英検を持っていても書けない話せない・・・とならないために、<strong>レッスンではまず実力（文法語彙力←ここがなければ英語力は広がりません）をつけることを優先とし、その力を試すために受けるのが英検</strong>だと考えています。3級を持っているのであれば中学英語、2級であれば高校英語、しっかり使いこなし書いたり話したりできるでしょうか？自分の英語力をしっかり把握して適切な級で復習として英検を利用しましょう。よってギリギリの合格ではなく、その級で満点が取れるまで何回も練習していきます。英検を本当に習得したいと思うのであれば急がないでください。
 
 またTOEFLやIELTSではただ単に英語が書ける話せるだけでは対応できません。そこに論理的思考が加わります。様々な分野に問題意識を持ち、自分の意見がしっかり述べられる力が必要となります。
 
