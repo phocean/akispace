@@ -24,7 +24,7 @@ permalink: index.html
 
 > Quite a few people think that they need to be able to speak French to survive in France, but English is the most common language in the world after all. It is widely spoken and often referred as a world language. Mastering it will save you a lot of trouble wherever you live.
 > 
-> There must be multiple methods to learn English as a foreign language, but I personally believe that we need a certain level of vocabulary and knowledge of grammar and that we should work a lot to make sentences freely in Enlish, based on those skills. Both memorizing and practicing are essential. They are complementary to each other.
+> There must be multiple methods to learn English as a foreign language, but I personally believe that we need a certain level of vocabulary and knowledge of grammar and that we should work a lot to make sentences freely in English, based on those skills. Both memorizing and practicing are essential. They are complementary to each other.
 >
 > Further, logical thinking is also considered to be very important in school education. It means that we need to become able to compose not a simple diary but a well-organized essay.
 >
