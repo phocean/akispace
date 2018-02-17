@@ -1,0 +1,19 @@
+/*- Custom style -*/
+
+// -- Put custom style under this point -- //
+
+blockquote p {
+    margin-bottom: 0em;
+    margin-top: 0em;
+    line-height: 1em;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+table {
+    margin-bottom: 1em;
+}

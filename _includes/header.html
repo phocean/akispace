@@ -1,0 +1,28 @@
+<header id="header" class="parent justify-spaceBetween">
+  <div class="inner w100 relative">
+    <br>
+    <span class="f-left">
+      <a href="https://akispace.net">
+        <h1>
+          <img src="img/akispace.png" />
+        </h1>
+      </a>
+    </span>
+    <span id="nav-links" class="absolute right bottom">
+      <!-- Nav pages -->
+      {% assign pages = site.pages | sort:"weight"  %}
+	    {% for page in pages %}
+	      {% if page.layout == "page" %}
+	        <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.entry }}">{{ page.entry }}</a>
+	      {% endif %}
+	    {% endfor %}
+      
+      <!-- Nav links -->
+	    {% include link.html %}
+
+    </span>
+  </div>
+</header>
+
+
+
