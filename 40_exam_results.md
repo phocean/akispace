@@ -27,12 +27,11 @@ permalink: results.html
 
 以下はJapan Timesの記事の抜粋です。
 
-> "Taking exams is not necessarily harmful to learners, but when test results are overemphasized, motivation becomes misdirected. Students > can mistake the language for a paper-based, correct-answer activity, rather than a real world communicative tool."
+> "Taking exams is not necessarily harmful to learners, but when test results are overemphasized, motivation becomes misdirected. Students can mistake the language for a paper-based, correct-answer activity, rather than a real world communicative tool."
 > 
 > "Schools, teachers and parents should move away from the testing obsession."
 > 
-> "It's really hard to see why the tests are all about grammar and reading comprehension. The listening part is far easier, and the 
-> speaking test is little more than an afterthought."
+> "It's really hard to see why the tests are all about grammar and reading comprehension. The listening part is far easier, and the speaking test is little more than an afterthought."
 
 英検を持っていても書けない話せない・・・とならないために、<strong>レッスンではまず実力（文法語彙力←ここがなければ英語力は広がりません）をつけることを優先とし、その力を試すために受けるのが英検</strong>だと考えています。3級を持っているのであれば中学英語、2級であれば高校英語、しっかり使いこなし書いたり話したりできるでしょうか？ 自分の英語力をしっかり把握して適切な級で復習として英検を利用しましょう。よってギリギリの合格ではなく、その級で満点が取れるまで何回も練習していきます。英語を本当に習得したいと思うのであれば急がないでください。
 
