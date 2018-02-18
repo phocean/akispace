@@ -34,7 +34,7 @@ permalink: index.html
 >
 > I know what is difficult and what explanations you expect because I have the same way of thinking as you.
 
-**レッスン可能地域：ブローニュ、パリ１６区**
+**レッスン可能地域：ブローニュ、パリ１６区、１５区（一部地域）**
 
 **フランス事業登録番号(SIRET)を持つ家庭教師ですのでご安心ください（siret番号 : 47798964400026）**
 
