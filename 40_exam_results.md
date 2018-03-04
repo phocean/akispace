@@ -25,15 +25,15 @@ permalink: results.html
 
 英検は受身的な試験で文法や語彙を知らなくても合格できてしまうという欠点があります。語彙は４つの選択肢から選び、読解はストーリーが理解できなくても正解が導き出せます。実力の伴わない合格であっても次の級へとどんどん進んでいってしまう傾向があるのですが、そのようなパターンに陥ってしまうと本来の目的であるはずの英語を伸ばすというゴールが失われ、英検に合格することだけが唯一の目標となってしまいます。
 
-以下はJapan Timesの英検に関する記事の抜粋です。
+以下はJapan Timesに記載されていた英検に関する記事の抜粋です。私もその通りだと思います。
 
-> "Taking exams is not necessarily harmful to learners, but when test results are overemphasized, motivation becomes misdirected. Students can mistake the language for a paper-based, correct-answer activity, rather than a real world communicative tool."
+> "Taking exams is not necessarily harmful to learners, but when test results are overemphasized, motivation becomes misdirected. Students can mistake the language for a paper-based, correct-answer activity, rather than a real world communicative tool." 
 > 
-> "Schools, teachers and parents should move away from the testing obsession."
+> "Schools, teachers and parents should move away from the testing obsession." 
 > 
 > "It's really hard to see why the tests are all about grammar and reading comprehension. The listening part is far easier, and the speaking test is little more than an afterthought."
 
-英検を持っていても書けない話せない・・・とならないために、<strong>レッスンではまず実力（文法語彙力←ここがなければ英語力は広がりません）をつけることを優先とし、その力を試すために受けるのが英検</strong>だと考えています。3級を持っているのであれば中学英語、2級であれば高校英語、しっかり使いこなし書いたり話したりできるでしょうか？ また読解文の内容を本当にきっちり理解できているでしょうか。自分の英語力をしっかり把握して適切な級で復習として英検を利用しましょう。よってギリギリの合格ではなく、その級で満点が取れるまで何回も練習していきます。英語を本当に習得したいと思うのであれば急がないでください。
+英検を持っていても書けない話せない・・・とならないために、<strong>レッスンではまず実力（文法語彙力←ここがなければ英語力は広がりません）をつけることを優先とし、その力を試すために受けるのが英検</strong>だと考えています。3級を持っているのであれば中学英語、2級であれば高校英語、しっかり使いこなし書いたり話したりできるでしょうか？　自分の英語力をしっかり把握して適切な級で復習として英検を利用しましょう。よってギリギリの合格ではなく、その級で満点が取れるまで何回も練習していきます。英語を本当に習得したいと思うのであれば急がないことが一番です。
 
 英検の級を持っていても、必ずしも英語ができるとは言えません。しかし英語ができれば英検は合格します。
 
