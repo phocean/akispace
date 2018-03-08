@@ -25,7 +25,7 @@ permalink: results.html
 
 英検は受身的な試験で文法や語彙を知らなくても合格できてしまうという欠点があります。語彙は４つの選択肢から選び、読解はストーリーが理解できなくても正解が導き出せます。実力の伴わない合格であっても次の級へとどんどん進んでいってしまう傾向があるのですが、そのようなパターンに陥ってしまうと本来の目的であるはずの英語を伸ばすというゴールが失われ、英検に合格することだけが唯一の目標となってしまいます。
 
-以下はJapan Timesに記載されていた英検に関する記事の抜粋です。私もその通りだと思います。
+以下はJapan Timesに記載されていた英検に関する記事の抜粋です。
 
 > "Taking exams is not necessarily harmful to learners, but when test results are overemphasized, motivation becomes misdirected. Students can mistake the language for a paper-based, correct-answer activity, rather than a real world communicative tool." 
 > 
