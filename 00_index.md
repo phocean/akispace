@@ -28,7 +28,7 @@ permalink: index.html
 >
 > Further, logical thinking is also considered to be very important and tested in many types of qualification exams. It means that we need to become able to compose not a simple diary but a well-organized essay.
 >
-> If you are interested in imporoving or brushing up your English, I will be happy to help you. All that you need to have is a strong motivation. I will arrange your lessons flexibly in a way that you can learn the language thoroughly from the basics.
+> If you are interested in improving or brushing up your English, I will be happy to help you. All that you need to have is a strong motivation. I will arrange your lessons flexibly so that you can learn the language thoroughly from the basics.
 >
 > Some of you may say that the best way to learn English is to have a native English-speaking teacher, but what if you can’t understand what he explains? The way we, Japanese, understand English is different from the way they do. It is more constructive that you enjoy a conversation with a native speaker after building up your English skills to some extent. 
 >
