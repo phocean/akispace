@@ -17,10 +17,9 @@ permalink: index.html
 
 さらに、これからはただ文章が作れるだけではなく論理的に考えられる力（logical thinking）が必要になってきます。英語力に加え国語力です。
 
-フランスにいるけれどもしっかり英語を学びたい日本人学生さん、あるいは学び直したい大人の方、基礎から丁寧にお手伝いいたします。
+フランスにいるけれどもしっかり英語を学びたい日本人学生さん、あるいは学び直したい大人の方、基礎から丁寧にお手伝い致します。
 
 何が分かりにくいのか、どこをどう説明して欲しいのか、こういったことはやはり同じ日本人のほうがよく知っています。ネイティヴの英語の考え方と、日本人の考え方は違いますから。そしてある程度力をつけてからネイティヴと会話を楽しんでいくといいですね。
-。
 
 > Quite a few people think that they need to be able to speak French to survive in France, but English is the most common language in the world after all. It is widely spoken and often referred as a world language. Mastering it will save you a lot of trouble wherever you live.
 > 
