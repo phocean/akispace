@@ -10,7 +10,6 @@ permalink: contact.html
 ## Contact
 
 お問い合わせは下記アドレスまで。
-折り返しご連絡いたします。
 
 **[aki@akispace.net](mailto:aki@akispace.net)**
 
