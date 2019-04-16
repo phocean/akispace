@@ -21,13 +21,13 @@ permalink: index.html
 
 何が分かりにくいのか、どこをどう説明して欲しいのか、こういったことはやはり同じ日本人のほうがよく知っています。ネイティヴの英語の考え方と、日本人の考え方は違いますから。そしてある程度力をつけてからネイティヴと会話を楽しんでいくといいですね。
 
-> Quite a few people think that they need to be able to speak French to survive in France, but English is the most common language in the world after all. It is widely spoken and often referred as a world language. Mastering it will save you a lot of trouble wherever you live.
+> Quite a few people think that they need to be able to speak French to survive in France, but English is the most common language in the world. It is widely spoken and often referred as a world language. Mastering it will save you a lot of trouble wherever you live. 
 > 
-> There are multiple methods to learn English as a foreign language, but I personally believe that we should first achieve a certain level of grammar knowledge and increase our vocabulary. Then, we move on to the next stage where we write or speak freely based on those skills. Both memorization and practice are essential in the process. They are complementary to each other.
+> There are multiple methods to learn a foreign language, but I personally believe that grammar and vocabulary are the key points. After achieving some certain level of these skills, we can move on to the next stage where we practice writing or speaking freely. Both memorization and practice are essential in the process. They are complementary to each other.
 >
-> Further, logical thinking is also considered to be very important and tested in many types of qualification exams. It means that we need to become able to compose not a simple diary but a well-organized essay.
+> Further, logical thinking is also considered to be very important today and tested in many types of qualification exams. It means that we need to be able to compose not a simple diary but a well-organized essay.
 >
-> If you are interested in improving or brushing up your English, I will be happy to help you. All that you need to have is a strong motivation. I will arrange your lessons flexibly so that you can learn the language thoroughly from the basics.
+> If you are interested in improving or brushing up your English, I will be happy to help you. All that you need to have is a strong motivation. I will arrange your lessons fittingly so that you can learn the language thoroughly from the basics.
 >
 > Some of you may say that the best way to learn English is to have a native English-speaking teacher, but what if you can’t understand what he explains? The way we, Japanese, understand English is different from the way they do. It is more constructive that you enjoy a conversation with a native speaker after building up your English skills to some extent. 
 >
