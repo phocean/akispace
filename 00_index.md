@@ -21,11 +21,11 @@ permalink: index.html
 
 何が分かりにくいのか、どこをどう説明して欲しいのか、こういったことはやはり同じ日本人のほうがよく知っています。ネイティヴの英語の考え方と、日本人の考え方は違いますから。そしてある程度力をつけてからネイティヴと会話を楽しんでいくといいですね。
 
-> Quite a few people think that they need to be able to speak French to survive in France, but English is the most common language in the world. It is widely spoken and often referred as a world language. Mastering it will save you a lot of trouble wherever you live. 
+> Quite a few people think that they need to be able to speak French to survive in France, but English is the most common language in the world after all. It is widely spoken and often referred as a world language. Mastering it will save you a lot of trouble wherever you live. 
 > 
-> There are multiple methods to learn a foreign language, but I personally believe that grammar and vocabulary are the key points. After achieving some certain level of these skills, we can move on to the next stage where we practice writing or speaking freely. Both memorization and practice are essential in the process. They are complementary to each other.
+> There are multiple methods to learn a foreign language, but I personally believe that grammar and vocabulary are the key points. After achieving some certain level of these skills, we can move on to the next stage where we practice writing and speaking freely. Both memorization and practice are essential in the process. They are complementary to each other.
 >
-> Further, logical thinking is also considered to be very important today and tested in many types of qualification exams. It means that we need to be able to compose not a simple diary but a well-organized essay.
+> Further, logical thinking is also considered to be very important today and tested in many types of qualification exams. It means that we are expected to write not a simple diary but a well-organized essay to demonstrate our competency in English.
 >
 > If you are interested in improving or brushing up your English, I will be happy to help you. All that you need to have is a strong motivation. I will arrange your lessons fittingly so that you can learn the language thoroughly from the basics.
 >
