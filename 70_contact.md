@@ -14,4 +14,5 @@ permalink: contact.html
 **[aki@akispace.net](mailto:aki@akispace.net)**
 
 レッスン可能地域：ブローニュビヤンクール、パリ１６区
+
 お問い合わせの際には最寄り駅をお知らせ下さい。
