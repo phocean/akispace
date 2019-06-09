@@ -1,10 +1,9 @@
 ---
 layout: page
-weigth: 50
+weight: 600
 entry: Lesson fees
 title: パリ英語家庭教師　レッスン時間/料金
 description: フランス、パリ/ブローニュで探す英語家庭教師。英会話講師と家庭教師歴10年以上。英検1級、仏検1級、国家英語通訳ガイド資格など保持。各生徒さんのレベルに合わせて丁寧に英語を教えます。
-permalink: fees.html
 ---
 
 ##  Lesson fees

@@ -1,10 +1,9 @@
 ---
 layout: page
-weigth: 80
+weight: 300
 entry: Lessons
 title: パリ英語家庭教師　レッスン内容
 description: フランス、パリ /ブローニュで探す英語家庭教師。英文法の基礎から応用まで分かりやすく説明致します。TOEFL/TOEIC/IB/SAT/IELTS/英検5級から1級まで各資格試験の対策も経験豊富。
-permalink: lessons.html
 ---
 
 ## Lessons

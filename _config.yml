@@ -18,14 +18,11 @@ defaults:
 
 include: ['_pages']
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
 # Custom variables
 version: "1.0.0"
 
 # Options
+permalink: pretty
 custom_header: false
 custom_nav_footer: false
 reverse: false

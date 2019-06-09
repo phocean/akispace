@@ -1,10 +1,9 @@
 ---
 layout: page
-weigth: 70
+weight: 400
 entry: Essay
 title: パリ英語家庭教師　英語エッセイ通信添削
 description: 英検/TOEFL/IELTS/SATなどの資格試験に合わせたエッセイ添削、そして入試に必要な英語小論文などもレベルに沿ってお手伝いいたします。
-permalink: essays.html
 ---
 
 ## Essay

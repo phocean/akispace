@@ -1,10 +1,9 @@
 ---
 layout: page
-weigth: 60
+weight: 500
 entry: Exam Results
 title: パリ英語家庭教師　生徒合格実績
 description: フランス、パリ/ブローニュで探す英語家庭教師。英会話講師と家庭教師歴10年以上。英検1級、仏検1級、国家英語通訳ガイド資格など保持。各生徒さんのレベルに合わせて丁寧に英語を教えます。
-permalink: results.html
 ---
 
 ## Exam Results
