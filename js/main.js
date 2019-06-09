@@ -3,6 +3,7 @@ var reverse = document.getElementById("nav-menu-left");
 
 var icon = normal !== null ? normal : reverse;
 
+
 // Toggle the "menu-open" % "menu-opn-left" classes
 function toggle() {
 	  var navRight = document.getElementById("nav");
