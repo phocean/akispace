@@ -33,3 +33,5 @@ title: Paypal
 最後に手続き完了のページが表示されます。
 
 <img src="/static/img/paypal/05.png" />
+
+
