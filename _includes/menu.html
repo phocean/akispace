@@ -6,7 +6,7 @@
 		<!-- Nav pages -->
 	  {% for page in pages %}
 	    {% if page.layout == "page" %}
-	      <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.entry }}">{{ page.entry }}</a> /
+	      <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.entry }} / ">{{ page.entry }}</a>
 	    {% endif %}
 	  {% endfor %}
     
