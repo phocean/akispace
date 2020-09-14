@@ -24,9 +24,9 @@ description: フランス、パリ/ブローニュで探す英語家庭教師。
 > 
 > Quite a few people think that they need to be able to speak French to survive in France, but English is the most common language in the world after all. It is widely spoken and often referred as a world language. Mastering it will save you a lot of trouble wherever you live. 
 > 
-> There are multiple methods to learn a foreign language, but I personally believe that grammar and vocabulary are the fundamental points. Improving these skills means that your writing and speaking skills are also getting better. 
+> There are multiple methods to learn a foreign language, but I personally believe that grammar and vocabulary are the fundamental key points. Improving these skills means that your writing and speaking skills are also getting better. 
 >
-> Further, logical thinking is also considered to be very important and tested in many types of qualification exams. It means that we are expected to write not a simple diary but a well-organized essay to demonstrate our competency in English.
+> Further, logical thinking is considered to be very important and tested in many types of qualification exams. You are expected to write not a simple diary but a well-organized essay to demonstrate your competency in English.
 >
 > Some of you may say that the best way to learn English is to have a native English-speaking teacher, but what if you can’t understand what he explains? The way we, Japanese, understand English is different from the way they do. It is more constructive that you enjoy a conversation with a native speaker after building up your English skills to some extent. 
 >
