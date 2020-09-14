@@ -33,6 +33,3 @@ description: 英検/TOEFL/IELTS/SATなどの資格試験に合わせたエッセ
 <tr><td>レベル３/英検１級 (200-240words)/TOEFL (300words)/IELTS (250words以上)/IB/高校大学入試 (英語小論文/内容と字数によります。)</td><td>45€ (200〜300words)</td></tr>
 <tr><td>レベル４/SAT (300-400words)/その他字数が300字を超える場合</td><td> 55€〜</td></tr> 
 </table>
-
-
-支払い方法は銀行振り込みまたはPaypalになります（ユーロ建て）。
