@@ -13,5 +13,5 @@ description: 英会話講師と家庭教師歴10年以上。英検1級、仏検1
 **[aki@akispace.net](mailto:aki@akispace.net)**
 
 お知らせ：
-skypeとzoomを利用したレッスンになります。
+skypeあるいはzoomを利用したレッスンになります。
 対象学年は日本語を母国語とする小学校３年生から高校生までになります。
