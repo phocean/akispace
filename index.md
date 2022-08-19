@@ -10,7 +10,7 @@ description: フランス、パリ/ブローニュで探す英語家庭教師。
 
 **日本人女性講師による英語オンラインレッスン**
 
-対象：小学３年生から高校生まで（フランス国内、ヨーロッパ圏あるいは日本にお住まいの方）
+対象：小学３年生から高校生・大学生まで
 
 フランス事業登録番号(SIRET)を持つ家庭教師ですのでご安心ください（siret番号 : 47798964400026）
 
@@ -26,7 +26,7 @@ description: フランス、パリ/ブローニュで探す英語家庭教師。
 > 
 > Most people think that they need to be able to speak French to survive in France, but if you master the English language, it will save you a lot of time and trouble wherever you are. Everyone can understand it and speak it when they communicate with foreigners.
 > 
-> I also believe that grammar and vocabulary are the key elements in learning a new language. Improving these basic skills will help ameliorate your English further. This is why I encourage my students to strengthen their grammar as mcuh as possible before they start to practice writing or speaking.   
+> I also believe that grammar and vocabulary are the key elements in learning a new language. Improving these basic skills will help ameliorate your English further. This is why I encourage my students to strengthen their grammar as much as possible before they start to practice writing or speaking.   
 >
 > Logical thinking is also considered to be very important. As a matter of fact, it is tested in many types of English qualification exams. You are expected to write not a simple diary but a well-organized essay to demonstrate your competency in English. This is the most difficult part of TOEFL and IELTS.
 >
