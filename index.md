@@ -30,6 +30,6 @@ description: フランス、パリ/ブローニュで探す英語家庭教師。
 >
 > Logical thinking is also considered to be very important. As a matter of fact, it is tested in many types of English qualification exams. You are expected to write not a simple diary but a well-organized essay to demonstrate your competency in English. This is the most difficult part of TOEFL and IELTS.
 >
-> Last but not least, the best way to learn English is to start with a teacher who understands well both Japanese and English. Many people think that they must find a native English-speaking teacher, but what if you can’t understand his explanations? The way we, Japanese, understand English is different from the way they do. It is much better to enjoy a conversation with a native speaker when you feel comfortable preparing a good English sentence.
+> Last but not least, the best way to learn English is to start with a teacher who understands well both Japanese and English. Many people think that they must find a native English-speaking teacher, but what if you can’t understand his explanations? The way we, Japanese, understand English is different from the way they do. It is much better to enjoy a conversation with a native speaker when you come to feel comfortable preparing a good English sentence.
 >
 > I know what is difficult and what explanations you expect, because I have the same way of thinking as you.
