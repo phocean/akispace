@@ -26,10 +26,10 @@ description: フランス、パリ/ブローニュで探す英語家庭教師。
 > 
 > Most people think that they need to be able to speak French to survive in France, but if you master the English language, it will save you a lot of time and trouble wherever you are. Everyone can understand it and speak it when they communicate with foreigners.
 > 
-> I also believe that grammar and vocabulary are the key elements in learning a new language. Improving these basic skills will help ameliorate your English further. This is why I encourage my students to strengthen their grammar ablility as mcuh as possible before they start to practice writing or speaking.   
+> I also believe that grammar and vocabulary are the key elements in learning a new language. Improving these basic skills will help ameliorate your English further. This is why I encourage my students to strengthen their grammar as mcuh as possible before they start to practice writing or speaking.   
 >
-> Logical thinking is also considered to be very important, and as a matter of fact, it is tested in many types of qualification exams. You are expected to write not a simple diary but a well-organized essay to demonstrate your competency in English. This is the most difficult part of TOEFL or IELTS.
+> Logical thinking is also considered to be very important. As a matter of fact, it is tested in many types of English qualification exams. You are expected to write not a simple diary but a well-organized essay to demonstrate your competency in English. This is the most difficult part of TOEFL and IELTS.
 >
 > Last but not least, the best way to learn English is to start with a teacher who understands well both Japanese and English. Many people think that they must find a native English-speaking teacher, but what if you can’t understand his explanations? The way we, Japanese, understand English is different from the way they do. It is much better to enjoy a conversation with a native speaker when you feel comfortabl preparing a good English sentence.
 >
-> I know what is difficult and what explanations you expect because I have the same way of thinking as you.
+> I know what is difficult and what explanations you expect, because I have the same way of thinking as you.
