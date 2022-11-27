@@ -8,8 +8,6 @@ description: 英会話講師と家庭教師歴10年以上。英検1級、仏検1
 
 ## Contact
 
-現在、満席のためしばらく新しい生徒さんの募集が難しい状況です。
-
 お問い合わせは下記アドレスまで。
 
 **[aki@akispace.net](mailto:aki@akispace.net)**
