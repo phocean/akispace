@@ -22,7 +22,7 @@ zoomもしくはskypeによろ個別指導
 
 **レッスン（英語）**
 
-英文法（中学英語・高校英語） / 英検５級から１級まで / TOEFL(2023年最新版対応） / ILETS/IB English（国際バカロレア） / SAT  English / TOEIC / 学校の英語学習サポート
+英文法（中学英語・高校英語） / 英検５級から１級まで / TOEFL(2023年最新版対応） / ILETS / IB English（国際バカロレア） / SAT  English / TOEIC / 学校の英語学習サポート
 
 **レッスン（その他）**
 
