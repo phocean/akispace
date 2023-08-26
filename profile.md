@@ -2,8 +2,8 @@
 layout: page
 weight: 200
 entry: Profile
-title: パリ英語家庭教師　講師プロフィール
-description: フランス、パリで探す英語家庭教師。英検1級/フランス語検定1級/英語通訳ガイド/TOEIC970の資格を持つ日本人女性講師です。
+title: オンライン英語家庭教師　講師プロフィール
+description: フランス・パリ　ヨーロッパ各国　日本　オンライン英語家庭教師　小学生から大学生までの英語レッスン　英文法　英語エッセイ　英検　TOEFL　IB　SAT　IELTS　TOEIC
 ---
 
 ## Profile
