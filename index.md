@@ -2,8 +2,8 @@
 layout: page
 weight: 100
 entry: Home
-title: パリ英語家庭教師
-description: フランス・パリ、ヨーロッパ各国、日本　オンライン英語家庭教師。小学生から大学生までの英語レッスン：英文法、英語エッセイ、資格試験（英検/TOEFL/IB/SAT/IELTS/TOEIC)
+title: オンライン英語家庭教師
+description: フランス・パリ　ヨーロッパ各国　日本　オンライン英語家庭教師　小学生から大学生までの英語レッスン　英文法　英語エッセイ　英検　TOEFL　IB　SAT　IELTS　TOEIC
 ---
 
 ## Home
