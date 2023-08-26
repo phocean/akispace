@@ -6,7 +6,7 @@ title: オンライン英語家庭教師　レッスン内容
 description: フランス・パリ　ヨーロッパ、日本　オンライン英語家庭教師　英文法の基礎から応用まで分かりやすく説明致します。TOEFL/IB/SAT/IELTS/英検5級から1級まで各資格試験の対策も経験豊富。
 ---
 
-## Online Lessons(Skype/Zoom)
+## Online Lessons
 
 <h4>レッスン内容：</h4>
 
