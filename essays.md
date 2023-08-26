@@ -27,8 +27,8 @@ description: 英検/TOEFL/IELTS/SATなどの資格試験に合わせたエッセ
 <table>
 <tr><td>レベル１/3級〜準2級</td><td>20〜25€</td></tr>
 <tr><td>レベル２/英検２級 (80〜100words)/中学・高校入試 (英語小論文/内容と字数によります。)</td><td>35€</td></tr>
-<tr><td>レベル３/準１級 (120-150words)/TOEFL (200words)/IELTS (250words以上)/IB/高校大学入試エッセイ </td><td>45€</td></tr>
-<tr><td>レベル４/英検１級 (200-240words)/SAT (300-400words)/その他字数が300字を超える場合</td><td> 55€</td></tr> 
+<tr><td>レベル３/準１級 (120-150words)/TOEFL (200words)/IELTS (250words以上)/IB/高校大学入試エッセイ</td><td>45€</td></tr>
+<tr><td>レベル４/英検１級 (200-240words)/SAT (300-400words)/その他字数が300字を超える場合</td><td>55€</td></tr> 
 </table>
 
 TOEFLと英検準１レベルにおいては、意見を考える際のテーマ別キーワードリストや役に立つ英語表現リストなど無料で提供。
