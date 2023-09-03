@@ -11,11 +11,11 @@ description: フランス、パリ/ブローニュで探す英語家庭教師。
 <h4>各試験スコアの目安（帰国子女）:</h4>
 <table>
 <tr>
-<td nowrap><strong>中学卒業</strong></td>
+<td nowrap><strong>中学</strong></td>
 <td>英検2級（日本人学校）　～　準1級（インター）</td>
 </tr>
 <tr>
-<td><strong>高校卒業</strong></td>
+<td><strong>高校</strong></td>
 <td>TOEFL（90前後〜100以上）</td>
 </tr>
 </table>
