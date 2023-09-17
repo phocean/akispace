@@ -2,8 +2,8 @@
 layout: page
 weight: 100
 entry: Home
-title: オンライン英語家庭教師
-description: フランス・パリ　ヨーロッパ各国　日本　オンライン英語家庭教師　小学生から大学生までの英語レッスン　英文法　英語エッセイ　英検　TOEFL　IB　SAT　IELTS　TOEIC
+title: パリ英語家庭教師
+description:　オンライン英語家庭教師　小学生から大学生までの英語レッスン　英文法　英語エッセイ　英検　TOEFL　IB　SAT　IELTS　TOEIC　帰国子女受験など幅広く対応。フランス・パリだけでなくヨーロッパ各国、日本の生徒さんにもレッスンを提供しています。講師は日本人女性　英検1級　仏検1級保持。
 ---
 
 ## Home
@@ -22,7 +22,7 @@ zoomもしくはskypeによる個別指導
 
 **英語レッスン**
 
-英文法（中学英語・高校英語） / 英検５級から１級まで / TOEFL(2023年最新版対応） / ILETS / IB English（国際バカロレア） / SAT  English / TOEIC / 日本人校やインターの英語学習サポート
+英文法（中学英語・高校英語） / 英検５級から１級まで / TOEFL(2023年最新版対応） / ILETS / IB English（国際バカロレア） / SAT  English / TOEIC / 帰国子女受験　/ 日本人校やインターの英語学習サポート
 
 **その他レッスン**
 
