@@ -2,8 +2,8 @@
 layout: page
 weight: 400
 entry: Essay
-title: オンライン英語家庭教師　英語エッセイ通信添削
-description: 英検/TOEFL/IELTS/SATなどの資格試験に合わせたエッセイ添削、そして入試に必要な英語小論文などもレベルに沿ってお手伝いいたします。
+title: オンライン英語家庭教師　エッセイ添削
+description: 英検/TOEFL/IELTS/SATなどの資格試験に合わせたエッセイ添削、入試に必要な英語小論文などもレベルに沿ってお手伝いいたします。
 ---
 
 ## Essay
