@@ -8,6 +8,6 @@ description: オンライン英語家庭教師　小学生から大学生まで�
 
 ## Contact
 
-lessonsページ、exam-resultsページを一読いただければ大まかな授業の流れをご理解頂けると思います。お問い合わせは下記アドレスまで。
+お問い合わせは下記アドレスまで。
 
 **[aki@akispace.net](mailto:aki@akispace.net)**
