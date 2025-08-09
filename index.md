@@ -28,10 +28,13 @@ zoomによる**オンライン個別指導**
 
 
 
-<img width="610" height="419" alt="Capture d’écran 2025-08-09 à 14 25 34" src="https://github.com/user-attachments/assets/6c6e8ca5-453a-403d-bebf-190c3bca6e43" />
+<img width="320" height="220" alt="Capture d’écran 2025-08-09 à 14 25 34" src="https://github.com/user-attachments/assets/3d95d41f-5383-4013-8ff3-a7da9996cf00" />
 
 
-<img width="312" height="258" alt="Capture d’écran 2025-08-05 à 18 28 57" src="https://github.com/user-attachments/assets/f92b35ad-f02b-44fc-ac78-ac54ca8b9639" />
+<img width="320" height="265" alt="Capture d’écran 2025-08-05 à 18 28 57" src="https://github.com/user-attachments/assets/fcfd10e8-53ec-401e-9978-a6ac146b706a" />
+
+
+
 
 
 
