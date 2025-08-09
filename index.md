@@ -27,11 +27,13 @@ zoomによる**オンライン個別指導**
 日本語を母国語とするインター・日本人学校の小学３年生から大学生まで。ヨーロッパ各国、日本、また時間が合えば世界中どこでも対応いたします。
 
 
+毎日新聞　2025年8月1日記事
 
-<img width="320" height="220" alt="Capture d’écran 2025-08-09 à 14 25 34" src="https://github.com/user-attachments/assets/8cbdc432-0bd5-431c-a92f-051f8cfc497b" />　毎日新聞　2025年8月1日記事
+<img width="320" height="220" alt="Capture d’écran 2025-08-09 à 14 25 34" src="https://github.com/user-attachments/assets/8cbdc432-0bd5-431c-a92f-051f8cfc497b" />　
 
+時事通信　2025年6月23日記事
 
-<img width="320" height="265" alt="Capture d’écran 2025-08-05 à 18 28 57" src="https://github.com/user-attachments/assets/5deb9aa5-a506-4989-b30a-6b81ea83de3f" />　時事通信　2025年6月23日記事
+<img width="320" height="265" alt="Capture d’écran 2025-08-05 à 18 28 57" src="https://github.com/user-attachments/assets/5deb9aa5-a506-4989-b30a-6b81ea83de3f" />　
 
 
 
