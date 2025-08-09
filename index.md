@@ -26,3 +26,14 @@ zoomによる**オンライン個別指導**
 
 日本語を母国語とするインター・日本人学校の小学３年生から大学生まで。ヨーロッパ各国、日本、また時間が合えば世界中どこでも対応いたします。
 
+
+
+<img width="610" height="419" alt="Capture d’écran 2025-08-09 à 14 25 34" src="https://github.com/user-attachments/assets/6c6e8ca5-453a-403d-bebf-190c3bca6e43" />
+
+
+<img width="312" height="258" alt="Capture d’écran 2025-08-05 à 18 28 57" src="https://github.com/user-attachments/assets/f92b35ad-f02b-44fc-ac78-ac54ca8b9639" />
+
+
+
+
+
