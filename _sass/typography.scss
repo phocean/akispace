@@ -5,11 +5,11 @@
 
 body
 {
-  font-family : "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-family : "Noto Sans JP", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size   : 16px;
-  color: #333;
+  font-size   : 1rem;
+  color: $text-color;
 }
 
 /*- Typography for medium and small screen, based on 16px font-size -*/
@@ -28,8 +28,9 @@ h1 {
 
 h2 {
 	font-size: 1.5em; /* 24px/16px */
-	line-height: 1.8em;
-	padding: 1em 0 0 0; /* 12px/24px * 2, only top (Use padding instead of margin to maintain proximity with paragwithph) */
+	line-height: 1.5em;
+	color: $navy;
+	padding: 1em 0 0.25em 0;
 }
 
 h3, h4, h5, h6 {
@@ -69,13 +70,13 @@ h1 {
 }
 
 h2 {
-	font-size: 2em; /* 36px/18px */
-	line-height: 1.8em;
-	padding: 0.66667em 0 0 0; /* 12px/36px * 2, pnly top (Use padding instead of margin to maintain proximity with paragraph) */
+	font-size: 1.6em; /* ~27px/17px */
+	line-height: 1.5em;
+	padding: 0.5em 0 0.25em 0;
 }
 
 h3, h4, h5, h6 {
-	font-size: 1.3334em; /* 24px/18px */
+	font-size: 1.15em; /* ~20px/17px */
 	line-height: 1.8em;
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 }

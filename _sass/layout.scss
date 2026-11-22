@@ -1,158 +1,222 @@
 /* -- General Layout -- */
 
-/* Navigation */
+/* Header (sticky bar with logo and menu) */
 
-#nav, #nav-left { 
-  a {
+#header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background-color: $background-color;
+  border-bottom: 1px solid $line-color;
+  box-shadow: 0 8px 18px -14px rgba($navy, 0.35);
+  margin-bottom: 2.5em;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  height: 56px;
+  @media (min-width: 940px) {
+    height: 72px;
+  }
+}
+
+.brand {
+  display: block;
+  flex: none;
+  img {
     display: block;
-    color: $text-color;
-    padding: 0.33334em 0;
-    font-size: 1.5em;
-    font-weight: 400;
+    width: 140px;
+    height: auto;
+    margin: 0;
+    border-radius: 0;
     @media (min-width: 940px) {
-      font-size: 1em;
-    }
-    &:hover {
-      background-color: lighten($text-light-color, 5%);
+      width: 186px;
     }
   }
-  span {
-      font-weight: 200;
-    }
 }
 
-#nav {
-  @include nav-position(right);
-}
-
-#nav-left {
-  @include nav-position(left);
-}
-
-/* Toggle class to open menu */
-
-#nav.menu-open {
-  @include open(-14rem);
-}
-
-#nav-left.menu-open-left {
-  @include open(14rem);
-}
+/* Desktop menu */
 
 #nav-links {
-  @media (max-width: 940px) {
-    display:none;
-  }   
+  display: none;
+  @media (min-width: 940px) {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+  }
   a {
-    padding-left: 10px;
-    color: $text-color;
-    font-weight: 300
-  }
-}
-
-/* Separator after menu */
-
-#nav-list:after {
-  display: block;
-  content: '';
-  width: 5rem;
-  height: 1px;
-  margin: 23px auto;
-  background-color: $text-color;
-}
-
-/* Icon menu */
-
-#nav-menu {
-  @include icon-position(right);
-  @media (min-width: 940px) {
-    display:none;
-  }
-}
-
-#nav-menu-left {
-  @include icon-position(left);
-  @media (min-width: 940px) {
-    display:none;
-  }
-}
-
-#menu {
-  height: 4px;
-  width: 1.5em;
-  background-color: $text-color;
-  margin-top: 8px;
-  &:after, &:before {
-    content: "";
-    display: block;
     position: relative;
-    height: 4px;
-    width: 1.5em;
-    background-color: $text-color;
-    transition: all 0.3s ease-in;
+    display: block;
+    padding: 6px 11px;
+    border-radius: 6px;
+    color: $text-color;
+    font-size: 0.85rem;
+    font-weight: 500;
+    line-height: 1.4;
+    white-space: nowrap;
+    transition: background-color 0.15s, color 0.15s;
+    &:hover,
+    &:focus-visible {
+      background-color: $tint;
+      color: $blue-dark;
+    }
+    &.here {
+      color: $navy;
+      &::after {
+        content: "";
+        position: absolute;
+        left: 11px;
+        right: 11px;
+        bottom: -3px;
+        height: 2px;
+        border-radius: 2px;
+        background-color: $orange;
+      }
+    }
+    &.cta {
+      margin-left: 10px;
+      padding: 6px 18px;
+      border-radius: 999px;
+      background-color: $blue-dark;
+      color: #fff;
+      &:hover,
+      &:focus-visible,
+      &.here {
+        background-color: $navy;
+        color: #fff;
+      }
+      &.here::after {
+        display: none;
+      }
+    }
   }
-  &:before {
-    top: -8px;
+}
+
+/* Mobile menu button */
+
+#nav-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  height: 40px;
+  padding: 0 14px;
+  border: 1px solid $line-color;
+  border-radius: 999px;
+  background-color: $background-color;
+  color: $text-color;
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  @media (min-width: 940px) {
+    display: none;
   }
-  &:after {
-    top: 4px;
+}
+
+.menu-icon {
+  display: grid;
+  gap: 3px;
+  width: 14px;
+  i {
+    display: block;
+    height: 2px;
+    border-radius: 2px;
+    background-color: currentColor;
+    transition: transform 0.2s, opacity 0.2s;
   }
-  &.btn-close {
-    background: none;
+}
+
+#nav-toggle[aria-expanded="true"] .menu-icon i {
+  &:nth-child(1) { transform: translateY(5px) rotate(45deg); }
+  &:nth-child(2) { opacity: 0; }
+  &:nth-child(3) { transform: translateY(-5px) rotate(-45deg); }
+}
+
+/* Mobile menu panel (opens below the header) */
+
+#nav {
+  display: none;
+}
+
+@media (max-width: 939px) {
+  #nav.menu-open {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 57px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 15;
+    overflow-y: auto;
+    background-color: $background-color;
   }
-  &.btn-close:before {
-    top: 0;
-    -webkit-transform: rotate(-45deg);
-       -moz-transform: rotate(-45deg);
-        -ms-transform: rotate(-45deg);
-            transform: rotate(-45deg);
-    background-color: $text-color;
+  html.menu-is-open {
+    overflow: hidden;
   }
-  &.btn-close:after {
-    top: -4px;
-    -webkit-transform: rotate(45deg);
-       -moz-transform: rotate(45deg);
-        -ms-transform: rotate(45deg);
-            transform: rotate(45deg);
-    background-color: $text-color;
+}
+
+#nav-list {
+  padding-top: 6px;
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border-bottom: 1px solid $line-color;
+    color: $text-color;
+    &::after {
+      content: "\203A";
+      color: $text-light-color;
+      font-size: 1.2em;
+    }
+    span {
+      display: block;
+      font-size: 1rem;
+      font-weight: 500;
+      line-height: 1.5;
+      padding: 4px 0;
+    }
+    &.here span {
+      position: relative;
+      color: $navy;
+      &::before {
+        content: "";
+        position: absolute;
+        left: -13px;
+        top: 0.95em;
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+        background-color: $orange;
+      }
+    }
+  }
+}
+
+#nav footer {
+  margin-top: auto;
+  padding: 16px 20px 24px;
+  background-color: $tint;
+  color: $text-light-color;
+  font-size: 0.8rem;
+  text-align: left;
+  line-height: 1.6;
+  a {
+    display: block;
+    color: $blue-dark;
+    font-size: 0.95rem;
+    font-weight: 700;
   }
 }
 
 /* Main content */
 
-.fixed {
-  position: fixed;
-  width: 100%;
-  @media (min-width: 940px) {
-    position: static;
-  }
-}
-
 #container {
 	margin:0 auto;
-}
-
-#header {
-  border-bottom:  1px solid rgba(0,0,0,0.14);
-  text-align: center;
-  margin-bottom: 3em;
-  height: 5em;
-  position: relative;
-  a {
-  	text-decoration: none;
-  	display: inline-block;
-  }
-  div {
-    margin: 0 auto;
-  }
-  h1 {
-    font-size: 2em;
-    padding-bottom: 0;
-    span {
-      color: $text-light-color;
-      font-weight: 300;
-    }
-  }
 }
 
 /* Posts */

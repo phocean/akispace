@@ -1,28 +1,28 @@
-<header id="header" class="parent justify-spaceBetween">
-  <div class="inner w100 relative">
-    <br>
-    <span class="f-left">
-      <a href="{{ site.url }}">
-        <h1>
-          <img src="/img/akispace.png" />
-        </h1>
-      </a>
-    </span>
-    <span id="nav-links" class="absolute right bottom">
-      <!-- Nav pages -->
-      {% assign pages = site.pages | sort:"weight"  %}
-	    {% for page in pages %}
-	      {% if page.layout == "page" %}
-	        <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.entry }}">{{ page.entry }}</a>
-	      {% endif %}
-	    {% endfor %}
-      
-      <!-- Nav links -->
-	    {% include link.html %}
+<header id="header">
+  <div class="header-inner">
+    <a class="brand" href="{{ site.baseurl }}">
+      <img src="/img/akispace.png" alt="Akispace.net" width="322" height="54">
+    </a>
 
-    </span>
+    <!-- Nav pages (desktop) -->
+    <nav id="nav-links" aria-label="メニュー">
+      {% assign pages = site.pages | sort:"weight" %}
+      {% for p in pages %}
+        {% if p.layout == "page" and p.entry %}
+          <a href="{% if site.baseurl == "/" %}{{ p.url }}{% else %}{{ p.url | prepend: site.baseurl }}{% endif %}"
+             class="{% if p.url == page.url %}here{% endif %}{% if p.nav_cta %} cta{% endif %}"
+             {% if p.url == page.url %}aria-current="page"{% endif %}>{{ p.entry_ja | default: p.entry }}</a>
+        {% endif %}
+      {% endfor %}
+
+      <!-- Nav links -->
+      {% include link.html %}
+    </nav>
+
+    <!-- Menu button (mobile) -->
+    <button type="button" id="nav-toggle" aria-controls="nav" aria-expanded="false">
+      <span class="menu-icon" aria-hidden="true"><i></i><i></i><i></i></span>
+      メニュー
+    </button>
   </div>
 </header>
-
-
-

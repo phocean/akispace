@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
 
 {% include head.html %}
 
@@ -9,11 +9,6 @@
 	  	<!-- Navigation -->
 	  	{% include menu.html %}
     
-    <!-- Icon menu -->
-	  <a {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
-	  	<div id="menu"></div>
-	  </a>
-
       <!-- Header -->
       {% if site.custom_header == true %}
         {% include header-custom.html %}
