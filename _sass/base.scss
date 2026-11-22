@@ -51,9 +51,19 @@ html {
 }
 
 body {
+ margin: 0;
+ padding: 0;
+}
+
+/* Page column: the header bar spans the full width, its content and the page follow this column */
+.header-inner,
+#container,
+#wrap > footer {
  max-width: 1000px;
- margin: 0 auto;
- padding: 0 16px;
+ margin-left: auto;
+ margin-right: auto;
+ padding-left: 16px;
+ padding-right: 16px;
 }
 
 /*- Link -*/

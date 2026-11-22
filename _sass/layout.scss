@@ -9,7 +9,12 @@
   background-color: $background-color;
   border-bottom: 1px solid $line-color;
   box-shadow: 0 8px 18px -14px rgba($navy, 0.35);
-  margin-bottom: 2.5em;
+  margin-bottom: 2em;
+}
+
+/* No extra space above the page title right under the header */
+#page > h2:first-child {
+  padding-top: 0;
 }
 
 .header-inner {
@@ -215,9 +220,7 @@
 
 /* Main content */
 
-#container {
-	margin:0 auto;
-}
+
 
 /* Posts */
 
