@@ -1,5 +1,21 @@
+# Jekyll build output and caches
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Ruby / Bundler
 *.lock
+.bundle/
+vendor/
+
+# Local tools
+.claude/
+.vscode/
+.idea/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
